@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" />
     </list>
     <ignored path="Web-Standards.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +61,8 @@
       <file leaf-file-name="details.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.3625" vertical-offset="0" max-vertical-offset="2130">
-              <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.68125" vertical-offset="1300" max-vertical-offset="2340">
+              <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -133,8 +127,8 @@
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
-        <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" />
+        <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" />
       </list>
     </option>
   </component>
@@ -510,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3625" vertical-offset="0" max-vertical-offset="2130">
-          <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.68125" vertical-offset="1300" max-vertical-offset="2340">
+          <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
           <folding />
         </state>
       </provider>
