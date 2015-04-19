@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/contact.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/search.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/search.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/LICENSE" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/README.md" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/README.md" />
     </list>
     <ignored path="Web-Standards.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50849515" vertical-offset="781" max-vertical-offset="3885">
+            <state vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="3885">
               <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -117,16 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Themes/Stylish Theme/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.583333" vertical-offset="3010" max-vertical-offset="4665">
-              <caret line="216" column="58" selection-start-line="216" selection-start-column="39" selection-end-line="216" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -147,6 +143,7 @@
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" />
+        <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/README.md" />
       </list>
     </option>
   </component>
@@ -218,32 +215,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WSP_Ceres_Joshua-Wk1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-Standards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web-Standards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WSP_Ceres_Joshua-Wk1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -558,8 +529,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50849515" vertical-offset="781" max-vertical-offset="3885">
+        <state vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="3885">
           <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="85" />
           <folding />
         </state>
       </provider>
