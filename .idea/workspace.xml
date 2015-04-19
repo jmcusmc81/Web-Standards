@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/search.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" afterPath="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
     </list>
     <ignored path="Web-Standards.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3625" vertical-offset="520" max-vertical-offset="2010">
-              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+            <state vertical-scroll-proportion="-23.958334" vertical-offset="670" max-vertical-offset="2130">
+              <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6226" max-vertical-offset="7095">
-              <caret line="461" column="33" selection-start-line="461" selection-start-column="33" selection-end-line="461" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.8907767" vertical-offset="5251" max-vertical-offset="6075">
+              <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -122,8 +117,8 @@
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/search.html" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/index.html" />
-        <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
         <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html" />
+        <option value="$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js" />
       </list>
     </option>
   </component>
@@ -303,7 +298,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web Design/Ceres_Joshua_PWA2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prettyPhoto_compressed_3.1.5" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -527,23 +522,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js">
+    <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6226" max-vertical-offset="7095">
-          <caret line="461" column="33" selection-start-line="461" selection-start-column="33" selection-end-line="461" selection-end-column="33" />
+        <state vertical-scroll-proportion="-23.958334" vertical-offset="670" max-vertical-offset="2130">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/profile.html">
+    <entry file="file://$PROJECT_DIR$/Week 1/Project/WSP_Ceres_Joshua-Wk1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3625" vertical-offset="520" max-vertical-offset="2010">
-          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.8907767" vertical-offset="5251" max-vertical-offset="6075">
+          <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
