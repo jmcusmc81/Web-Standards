@@ -113,6 +113,10 @@ opacity:0.9;
     clear: right;
 }
 
+#modal1{
+    margin-left: 30em;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
