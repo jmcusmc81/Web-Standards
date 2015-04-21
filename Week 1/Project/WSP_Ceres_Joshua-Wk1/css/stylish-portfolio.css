@@ -298,11 +298,11 @@ hr.small {
     -o-background-size: cover;
 }
 
-.callout, h1{
+.callout h1{
     color: #FFFFFF;
 }
 
-.callout, h1:hover{
+.callout h1:hover{
     color: #0081c2;
 }
 /* Portfolio */
