@@ -298,6 +298,13 @@ hr.small {
     -o-background-size: cover;
 }
 
+.callout, h1{
+    color: #FFFFFF;
+}
+
+.callout, h1:hover{
+    color: #0081c2;
+}
 /* Portfolio */
 
 .portfolio {
@@ -848,3 +855,4 @@ html { height: 100%;}
 .row {
     margin:15px 0;
 }
+
