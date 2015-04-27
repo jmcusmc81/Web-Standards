@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/css/profile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/css/stylish-portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/details.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/ANN-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/Attack on Titan-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/Berserk Egg-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/Hunter x Hunter-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/SWA-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/Tokyo Ghoul-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/callout.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/portfolio-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/portfolio-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/portfolio-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/img/portfolio-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/test.html" afterPath="" />
-    </list>
+    <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="" />
     <ignored path="Web-Standards.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -229,10 +162,6 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WSP_Ceres_Joshua-Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -329,8 +258,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
