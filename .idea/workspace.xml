@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71711262-4926-42d6-9548-77b52bbdf4e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/contact.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details1.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details2.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details3.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details4.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/index.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/profile.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/search.html" afterPath="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/search.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Web-Standards.iws" />
@@ -24,7 +32,28 @@
     <favorites_list name="Web-Standards" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-31.458334" vertical-offset="865" max-vertical-offset="11370">
+              <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34375" vertical-offset="1315" max-vertical-offset="3720">
+              <caret line="106" column="54" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +83,14 @@
         <option value="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/index.html" />
         <option value="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk1/search.html" />
         <option value="$PROJECT_DIR$/Week 2/Project/WSP_Ceres_Joshua-Wk2/README.md" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/index.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details1.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details2.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details3.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details4.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/contact.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/profile.html" />
+        <option value="$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/search.html" />
       </list>
     </option>
   </component>
@@ -117,6 +154,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Week 4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSP_Ceres_Joshua-Wk4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,14 +247,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -417,6 +462,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16383494" vertical-offset="0" max-vertical-offset="6015">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -501,6 +547,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35669586" vertical-offset="0" max-vertical-offset="799">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="360" max-vertical-offset="3330">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="97" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.083332" vertical-offset="685" max-vertical-offset="3165">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-46.25" vertical-offset="345" max-vertical-offset="3135">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/details4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9625" vertical-offset="685" max-vertical-offset="3105">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9625" vertical-offset="700" max-vertical-offset="2790">
+          <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.083332" vertical-offset="640" max-vertical-offset="6360">
+          <caret line="94" column="49" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.458334" vertical-offset="865" max-vertical-offset="11370">
+          <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Project/WSP_Ceres_Joshua-Wk4/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34375" vertical-offset="1315" max-vertical-offset="3720">
+          <caret line="106" column="54" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
