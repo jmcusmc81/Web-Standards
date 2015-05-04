@@ -1,5 +1,7 @@
-http://localhost:63342/Web-Standards/Week%201/Project/WSP_Ceres_Joshua-Wk2/index.html
+http://localhost:63342/Web-Standards/Week%201/Project/WSP_Ceres_Joshua-Wk4/index.html
 
+Github Pages Link
+http://jmcusmc81.github.io/dws1/WSP_Ceres_Joshua-Wk4/
 
 ===== Notes Week 2 ====
 - Added some Modals for the images on the index page. They pop up a anime trailer for that image.
